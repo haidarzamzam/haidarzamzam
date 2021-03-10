@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi, I'm Haidar Zamzam <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+#### Welcome to my world 👨🏻‍💻
 
-<!--
-**haidarzamzam/haidarzamzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm mobile developer from Bogor, Indonesia
+<br />
+| *#MobileDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp;
 
-Here are some ideas to get you started:
+- 🏢 &nbsp; I'm currently working at [Nusanet](https://www.nusa.net.id)
+- 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
+- ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on Medium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+
+<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+</code> &nbsp;
+<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+</code> &nbsp; 
+<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+</code> &nbsp; 
+
+*This metric is just for fun. Does not indicate my skill level.*
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidarzamzam&theme=onedark&hide=javascript,html,css,objective-c" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haidarzamzam&show_icons=true&theme=onedark&line_height=27" alt="Haidar Zamzam github stats" />
+</a>
