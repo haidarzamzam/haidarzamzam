@@ -3,7 +3,7 @@
 
 I'm mobile developer from Bogor, Indonesia
 <br />
-| *#MobileDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp;
+| *#MobileDev* | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp;
 
 - 🏢 &nbsp; I'm currently working at [IDN Boarding School](https://idn.sch.id)
 - 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
@@ -11,8 +11,6 @@ I'm mobile developer from Bogor, Indonesia
 
 **Languages**
 
-<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-</code> &nbsp;
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 </code> &nbsp; 
 <code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
