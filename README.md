@@ -5,7 +5,7 @@ I'm mobile developer from Bogor, Indonesia
 <br />
 | *#MobileDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp;
 
-- 🏢 &nbsp; I'm currently working at [Nusanet](https://www.nusa.net.id)
+- 🏢 &nbsp; I'm currently working at [IDN Boarding School](https://idn.sch.id)
 - 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
 - ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on Medium.
 
