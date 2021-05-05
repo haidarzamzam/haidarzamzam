@@ -19,8 +19,5 @@ I'm mobile developer from Bogor, Indonesia
 *This metric is just for fun. Does not indicate my skill level.*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidarzamzam&theme=onedark&hide=javascript,html,css,objective-c" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haidarzamzam&show_icons=true&theme=onedark&line_height=27" alt="Haidar Zamzam github stats" />
 </a>
