@@ -5,9 +5,9 @@ I'm mobile developer from Surabaya, Indonesia
 <br />
 | *#MobileDevEnthusiast* | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp;
 
-- 🏢 &nbsp; I'm currently working at [Alodokter](https://www.alodokter.com)
+- 🏢 &nbsp; I'm currently working at [Personal](https://www.hai-dev.com)
 - 📖 &nbsp; I'm currently learning [Android Native](https://developer.android.com) and [Flutter](https://flutter.dev)
-- ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on [Medium](https://haidarzamzam.medium.com).
+- ✍🏻 &nbsp; I'm enjoy sharing my experiences through writing on [Medium](https://haidarzamzam.medium.com).
 
 **Languages**
 
